@@ -1,5 +1,9 @@
 # European Rights Matrix
 
+These tables provide a comparative breakdown of fundamental rights granted to
+citizens and individuals by the various constitutions of the EU member states,
+and those that are about to enter the union.
+
 ## Member States
 
 | Name (year of entry)  | Home | Education | Health | Religion |
@@ -42,3 +46,11 @@
 | Montenegro |||||
 | Serbia     |||||
 | Turkey     |||||
+
+# Contributing
+
+Feel free to [open an issue](https://github.com/claudiopro/eu-rights-matrix/issues/new) or send a PR for any additions. You can add a new right as a column, or help figuring out the rights by filling the table.
+
+# License
+
+Public domain
